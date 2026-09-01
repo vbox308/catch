@@ -8,198 +8,6 @@
 		<display-name>V60</display-name>
 		<icon src=""></icon>
 	</channel>
-	<programme start="20260824000000 +0000" stop="20260824003000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824003000 +0000" stop="20260824010000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824010000 +0000" stop="20260824013000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824013000 +0000" stop="20260824020000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824020000 +0000" stop="20260824023000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824023000 +0000" stop="20260824030000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824030000 +0000" stop="20260824033000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824033000 +0000" stop="20260824040000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824040000 +0000" stop="20260824043000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824043000 +0000" stop="20260824050000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824050000 +0000" stop="20260824053000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824053000 +0000" stop="20260824060000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824060000 +0000" stop="20260824063000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824063000 +0000" stop="20260824070000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824070000 +0000" stop="20260824073000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824073000 +0000" stop="20260824080000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824080000 +0000" stop="20260824083000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824083000 +0000" stop="20260824090000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824090000 +0000" stop="20260824093000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824093000 +0000" stop="20260824100000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824100000 +0000" stop="20260824103000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824103000 +0000" stop="20260824110000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824110000 +0000" stop="20260824113000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824113000 +0000" stop="20260824120000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824120000 +0000" stop="20260824123000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824123000 +0000" stop="20260824130000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824130000 +0000" stop="20260824133000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824133000 +0000" stop="20260824140000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824140000 +0000" stop="20260824143000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824143000 +0000" stop="20260824150000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824150000 +0000" stop="20260824153000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824153000 +0000" stop="20260824160000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824160000 +0000" stop="20260824163000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824163000 +0000" stop="20260824170000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824170000 +0000" stop="20260824173000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824173000 +0000" stop="20260824180000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824180000 +0000" stop="20260824183000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824183000 +0000" stop="20260824190000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824190000 +0000" stop="20260824193000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824193000 +0000" stop="20260824200000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824200000 +0000" stop="20260824203000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824203000 +0000" stop="20260824210000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824210000 +0000" stop="20260824213000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824213000 +0000" stop="20260824220000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824220000 +0000" stop="20260824223000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824223000 +0000" stop="20260824230000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824230000 +0000" stop="20260824233000 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
-	<programme start="20260824233000 +0000" stop="20260824235959 +0000" channel="ts54842">
-		<title>Vbox Catchup</title>
-		<desc>Vbox 30min recording - Date: 24-08-2026</desc>
-	</programme>
 	<programme start="20260825000000 +0000" stop="20260825003000 +0000" channel="ts54842">
 		<title>Vbox Catchup</title>
 		<desc>Vbox 30min recording - Date: 25-08-2026</desc>
@@ -1736,101 +1544,197 @@
 		<title>Vbox Catchup</title>
 		<desc>Vbox 30min recording - Date: 01-09-2026</desc>
 	</programme>
-	<programme start="20260824000000 +0000" stop="20260824010000 +0000" channel="ts54843">
+	<programme start="20260902000000 +0000" stop="20260902003000 +0000" channel="ts54842">
 		<title>Vbox Catchup</title>
-		<desc>Vbox 60min recording - Date: 24-08-2026</desc>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
 	</programme>
-	<programme start="20260824010000 +0000" stop="20260824020000 +0000" channel="ts54843">
+	<programme start="20260902003000 +0000" stop="20260902010000 +0000" channel="ts54842">
 		<title>Vbox Catchup</title>
-		<desc>Vbox 60min recording - Date: 24-08-2026</desc>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
 	</programme>
-	<programme start="20260824020000 +0000" stop="20260824030000 +0000" channel="ts54843">
+	<programme start="20260902010000 +0000" stop="20260902013000 +0000" channel="ts54842">
 		<title>Vbox Catchup</title>
-		<desc>Vbox 60min recording - Date: 24-08-2026</desc>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
 	</programme>
-	<programme start="20260824030000 +0000" stop="20260824040000 +0000" channel="ts54843">
+	<programme start="20260902013000 +0000" stop="20260902020000 +0000" channel="ts54842">
 		<title>Vbox Catchup</title>
-		<desc>Vbox 60min recording - Date: 24-08-2026</desc>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
 	</programme>
-	<programme start="20260824040000 +0000" stop="20260824050000 +0000" channel="ts54843">
+	<programme start="20260902020000 +0000" stop="20260902023000 +0000" channel="ts54842">
 		<title>Vbox Catchup</title>
-		<desc>Vbox 60min recording - Date: 24-08-2026</desc>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
 	</programme>
-	<programme start="20260824050000 +0000" stop="20260824060000 +0000" channel="ts54843">
+	<programme start="20260902023000 +0000" stop="20260902030000 +0000" channel="ts54842">
 		<title>Vbox Catchup</title>
-		<desc>Vbox 60min recording - Date: 24-08-2026</desc>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
 	</programme>
-	<programme start="20260824060000 +0000" stop="20260824070000 +0000" channel="ts54843">
+	<programme start="20260902030000 +0000" stop="20260902033000 +0000" channel="ts54842">
 		<title>Vbox Catchup</title>
-		<desc>Vbox 60min recording - Date: 24-08-2026</desc>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
 	</programme>
-	<programme start="20260824070000 +0000" stop="20260824080000 +0000" channel="ts54843">
+	<programme start="20260902033000 +0000" stop="20260902040000 +0000" channel="ts54842">
 		<title>Vbox Catchup</title>
-		<desc>Vbox 60min recording - Date: 24-08-2026</desc>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
 	</programme>
-	<programme start="20260824080000 +0000" stop="20260824090000 +0000" channel="ts54843">
+	<programme start="20260902040000 +0000" stop="20260902043000 +0000" channel="ts54842">
 		<title>Vbox Catchup</title>
-		<desc>Vbox 60min recording - Date: 24-08-2026</desc>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
 	</programme>
-	<programme start="20260824090000 +0000" stop="20260824100000 +0000" channel="ts54843">
+	<programme start="20260902043000 +0000" stop="20260902050000 +0000" channel="ts54842">
 		<title>Vbox Catchup</title>
-		<desc>Vbox 60min recording - Date: 24-08-2026</desc>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
 	</programme>
-	<programme start="20260824100000 +0000" stop="20260824110000 +0000" channel="ts54843">
+	<programme start="20260902050000 +0000" stop="20260902053000 +0000" channel="ts54842">
 		<title>Vbox Catchup</title>
-		<desc>Vbox 60min recording - Date: 24-08-2026</desc>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
 	</programme>
-	<programme start="20260824110000 +0000" stop="20260824120000 +0000" channel="ts54843">
+	<programme start="20260902053000 +0000" stop="20260902060000 +0000" channel="ts54842">
 		<title>Vbox Catchup</title>
-		<desc>Vbox 60min recording - Date: 24-08-2026</desc>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
 	</programme>
-	<programme start="20260824120000 +0000" stop="20260824130000 +0000" channel="ts54843">
+	<programme start="20260902060000 +0000" stop="20260902063000 +0000" channel="ts54842">
 		<title>Vbox Catchup</title>
-		<desc>Vbox 60min recording - Date: 24-08-2026</desc>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
 	</programme>
-	<programme start="20260824130000 +0000" stop="20260824140000 +0000" channel="ts54843">
+	<programme start="20260902063000 +0000" stop="20260902070000 +0000" channel="ts54842">
 		<title>Vbox Catchup</title>
-		<desc>Vbox 60min recording - Date: 24-08-2026</desc>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
 	</programme>
-	<programme start="20260824140000 +0000" stop="20260824150000 +0000" channel="ts54843">
+	<programme start="20260902070000 +0000" stop="20260902073000 +0000" channel="ts54842">
 		<title>Vbox Catchup</title>
-		<desc>Vbox 60min recording - Date: 24-08-2026</desc>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
 	</programme>
-	<programme start="20260824150000 +0000" stop="20260824160000 +0000" channel="ts54843">
+	<programme start="20260902073000 +0000" stop="20260902080000 +0000" channel="ts54842">
 		<title>Vbox Catchup</title>
-		<desc>Vbox 60min recording - Date: 24-08-2026</desc>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
 	</programme>
-	<programme start="20260824160000 +0000" stop="20260824170000 +0000" channel="ts54843">
+	<programme start="20260902080000 +0000" stop="20260902083000 +0000" channel="ts54842">
 		<title>Vbox Catchup</title>
-		<desc>Vbox 60min recording - Date: 24-08-2026</desc>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
 	</programme>
-	<programme start="20260824170000 +0000" stop="20260824180000 +0000" channel="ts54843">
+	<programme start="20260902083000 +0000" stop="20260902090000 +0000" channel="ts54842">
 		<title>Vbox Catchup</title>
-		<desc>Vbox 60min recording - Date: 24-08-2026</desc>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
 	</programme>
-	<programme start="20260824180000 +0000" stop="20260824190000 +0000" channel="ts54843">
+	<programme start="20260902090000 +0000" stop="20260902093000 +0000" channel="ts54842">
 		<title>Vbox Catchup</title>
-		<desc>Vbox 60min recording - Date: 24-08-2026</desc>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
 	</programme>
-	<programme start="20260824190000 +0000" stop="20260824200000 +0000" channel="ts54843">
+	<programme start="20260902093000 +0000" stop="20260902100000 +0000" channel="ts54842">
 		<title>Vbox Catchup</title>
-		<desc>Vbox 60min recording - Date: 24-08-2026</desc>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
 	</programme>
-	<programme start="20260824200000 +0000" stop="20260824210000 +0000" channel="ts54843">
+	<programme start="20260902100000 +0000" stop="20260902103000 +0000" channel="ts54842">
 		<title>Vbox Catchup</title>
-		<desc>Vbox 60min recording - Date: 24-08-2026</desc>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
 	</programme>
-	<programme start="20260824210000 +0000" stop="20260824220000 +0000" channel="ts54843">
+	<programme start="20260902103000 +0000" stop="20260902110000 +0000" channel="ts54842">
 		<title>Vbox Catchup</title>
-		<desc>Vbox 60min recording - Date: 24-08-2026</desc>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
 	</programme>
-	<programme start="20260824220000 +0000" stop="20260824230000 +0000" channel="ts54843">
+	<programme start="20260902110000 +0000" stop="20260902113000 +0000" channel="ts54842">
 		<title>Vbox Catchup</title>
-		<desc>Vbox 60min recording - Date: 24-08-2026</desc>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
 	</programme>
-	<programme start="20260824230000 +0000" stop="20260824235959 +0000" channel="ts54843">
+	<programme start="20260902113000 +0000" stop="20260902120000 +0000" channel="ts54842">
 		<title>Vbox Catchup</title>
-		<desc>Vbox 60min recording - Date: 24-08-2026</desc>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902120000 +0000" stop="20260902123000 +0000" channel="ts54842">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902123000 +0000" stop="20260902130000 +0000" channel="ts54842">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902130000 +0000" stop="20260902133000 +0000" channel="ts54842">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902133000 +0000" stop="20260902140000 +0000" channel="ts54842">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902140000 +0000" stop="20260902143000 +0000" channel="ts54842">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902143000 +0000" stop="20260902150000 +0000" channel="ts54842">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902150000 +0000" stop="20260902153000 +0000" channel="ts54842">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902153000 +0000" stop="20260902160000 +0000" channel="ts54842">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902160000 +0000" stop="20260902163000 +0000" channel="ts54842">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902163000 +0000" stop="20260902170000 +0000" channel="ts54842">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902170000 +0000" stop="20260902173000 +0000" channel="ts54842">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902173000 +0000" stop="20260902180000 +0000" channel="ts54842">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902180000 +0000" stop="20260902183000 +0000" channel="ts54842">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902183000 +0000" stop="20260902190000 +0000" channel="ts54842">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902190000 +0000" stop="20260902193000 +0000" channel="ts54842">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902193000 +0000" stop="20260902200000 +0000" channel="ts54842">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902200000 +0000" stop="20260902203000 +0000" channel="ts54842">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902203000 +0000" stop="20260902210000 +0000" channel="ts54842">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902210000 +0000" stop="20260902213000 +0000" channel="ts54842">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902213000 +0000" stop="20260902220000 +0000" channel="ts54842">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902220000 +0000" stop="20260902223000 +0000" channel="ts54842">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902223000 +0000" stop="20260902230000 +0000" channel="ts54842">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902230000 +0000" stop="20260902233000 +0000" channel="ts54842">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902233000 +0000" stop="20260902235959 +0000" channel="ts54842">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 30min recording - Date: 02-09-2026</desc>
 	</programme>
 	<programme start="20260825000000 +0000" stop="20260825010000 +0000" channel="ts54843">
 		<title>Vbox Catchup</title>
@@ -2599,5 +2503,101 @@
 	<programme start="20260901230000 +0000" stop="20260901235959 +0000" channel="ts54843">
 		<title>Vbox Catchup</title>
 		<desc>Vbox 60min recording - Date: 01-09-2026</desc>
+	</programme>
+	<programme start="20260902000000 +0000" stop="20260902010000 +0000" channel="ts54843">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 60min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902010000 +0000" stop="20260902020000 +0000" channel="ts54843">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 60min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902020000 +0000" stop="20260902030000 +0000" channel="ts54843">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 60min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902030000 +0000" stop="20260902040000 +0000" channel="ts54843">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 60min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902040000 +0000" stop="20260902050000 +0000" channel="ts54843">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 60min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902050000 +0000" stop="20260902060000 +0000" channel="ts54843">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 60min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902060000 +0000" stop="20260902070000 +0000" channel="ts54843">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 60min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902070000 +0000" stop="20260902080000 +0000" channel="ts54843">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 60min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902080000 +0000" stop="20260902090000 +0000" channel="ts54843">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 60min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902090000 +0000" stop="20260902100000 +0000" channel="ts54843">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 60min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902100000 +0000" stop="20260902110000 +0000" channel="ts54843">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 60min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902110000 +0000" stop="20260902120000 +0000" channel="ts54843">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 60min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902120000 +0000" stop="20260902130000 +0000" channel="ts54843">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 60min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902130000 +0000" stop="20260902140000 +0000" channel="ts54843">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 60min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902140000 +0000" stop="20260902150000 +0000" channel="ts54843">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 60min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902150000 +0000" stop="20260902160000 +0000" channel="ts54843">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 60min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902160000 +0000" stop="20260902170000 +0000" channel="ts54843">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 60min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902170000 +0000" stop="20260902180000 +0000" channel="ts54843">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 60min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902180000 +0000" stop="20260902190000 +0000" channel="ts54843">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 60min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902190000 +0000" stop="20260902200000 +0000" channel="ts54843">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 60min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902200000 +0000" stop="20260902210000 +0000" channel="ts54843">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 60min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902210000 +0000" stop="20260902220000 +0000" channel="ts54843">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 60min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902220000 +0000" stop="20260902230000 +0000" channel="ts54843">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 60min recording - Date: 02-09-2026</desc>
+	</programme>
+	<programme start="20260902230000 +0000" stop="20260902235959 +0000" channel="ts54843">
+		<title>Vbox Catchup</title>
+		<desc>Vbox 60min recording - Date: 02-09-2026</desc>
 	</programme>
 </tv>
